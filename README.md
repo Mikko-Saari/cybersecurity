@@ -8,7 +8,7 @@
 | 19.1.2025  | 1 | Cisco eka osio    | Opiskelin          |
 | 24.1.2025 | 5 | PortSwigger       | Itseopiskelua ja kaksi labiä  |
 | 28.1.2025 | 5 | Cisco module 1,2,3  | Itseopiskelua  |
-| 30.10.2025 | 2 | Kick-off lecture  | Lecture recording  |
+| 1.2.2025 | 3 | Cisto module 4,5  | Itseopiskelua  |
 | 30.10.2025 | 2 | Kick-off lecture  | Lecture recording  |
 | 30.10.2025 | 2 | Kick-off lecture  | Lecture recording  |
 | 30.10.2025 | 2 | Kick-off lecture  | Lecture recording  |
