@@ -9,6 +9,6 @@
 | 24.1.2025 | 5 | PortSwigger       | Itseopiskelua ja kaksi labiä  |
 | 28.1.2025 | 5 | Cisco module 1,2,3  | Itseopiskelua  |
 | 1.2.2025 | 3 | Cisco module 4,5, final exam  | Itseopiskelua  |
-| 30.10.2025 | 2 | Kick-off lecture  | Lecture recording  |
+| 6.2.2025 | 5 | Oppitunti ja Portswigger  | Itseopiskelua ja 4 labiä  |
 | 30.10.2025 | 2 | Kick-off lecture  | Lecture recording  |
 | 30.10.2025 | 2 | Kick-off lecture  | Lecture recording  |
