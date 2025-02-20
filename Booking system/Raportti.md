@@ -14,3 +14,8 @@ Kiireinen
 Error viesti antaa arkaluontoista tietoa jota hyökkääjä voi käyttää hyväkseen
 
 ![image](https://github.com/user-attachments/assets/3baa4a2b-a385-4b13-915f-f8a33e8ba1c6)
+
+
+
+![image](https://github.com/user-attachments/assets/0dd73908-3931-4b97-b3cd-e2641aa965f4)
+
