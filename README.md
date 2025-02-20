@@ -12,6 +12,6 @@
 | 6.2.2025  | 5          | Oppitunti ja PortSwigger      | Itseopiskelua ja 4 labiä       |
 | 16.2.2025 | 2          | Nauhoitus                     | Nauhoituksen katsomista        |
 | 16.2.2025 | 3          | VM asennus/trobleshooting     | Kaliin tutustumista            |
-| 17.2.2025 | 5          | VM opettelu/struggle          | Mikkään ei toimi, taju, 3 löydöstä |
+| 17.2.2025 | 5          | VM opettelu/struggle          | Mikkään ei toimi, -taju, 3 löydöstä |
 | 17.2.2025 | 2          | GIthub                        | pöytä meni rikki fuck this |
 | 20.2.2025 | 3          | Github ja phase1 raportti     | Raportin kirjoittaminen ja gitin korjaaminen |
