@@ -20,7 +20,7 @@ This report presents the findings of a penetration test conducted on the Booking
   - OWASP ZAP (HAR method)
   - Dirb
   - Nikto
-  - Nmap (realized I was scanning my own computer ports)
+  - Nmap (realized I was scanning my own computer ports, doesnt work on vm locally hosted apps i think)
 
 ---
 
