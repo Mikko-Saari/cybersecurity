@@ -15,3 +15,4 @@
 | 17.2.2025 | 5          | VM opettelu/struggle          | Mikkään ei toimi, -taju, 3 löydöstä |
 | 17.2.2025 | 2          | GIthub                        | pöytä meni rikki fuck this |
 | 20.2.2025 | 3          | Github ja phase1 raportti     | Raportin kirjoittaminen ja gitin korjaaminen |
+| 2.3.2025  | 3          | Nauhotus ja vm                | VM troubleshoot ja nauhotus |
