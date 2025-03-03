@@ -16,3 +16,4 @@
 | 17.2.2025 | 2          | GIthub                        | pöytä meni rikki fuck this |
 | 20.2.2025 | 3          | Github ja phase1 raportti     | Raportin kirjoittaminen ja gitin korjaaminen |
 | 2.3.2025  | 3          | Nauhotus ja vm                | VM troubleshoot ja nauhotus |
+| 3.3.2025  | 2          | VM, zap raport ja pentesting  | Luokkakaverin auttamista ja zap raport v2 |
