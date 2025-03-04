@@ -107,4 +107,5 @@ The system has shown significant improvement in its security posture. All previo
 
 ### Dirb Scan Results (No Hidden Files Found)
 ![image](https://github.com/user-attachments/assets/0dd73908-3931-4b97-b3cd-e2641aa965f4)
-![image](https://github.com/user-attachments/assets/5e970838-c1c5-446e-b7c7-1290f388be2c)
+![image](https://github.com/user-attachments/assets/d0f64a79-5cd0-46e7-9153-faf6d17e94df)
+
