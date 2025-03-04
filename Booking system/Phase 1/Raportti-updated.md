@@ -94,12 +94,16 @@ The system has shown significant improvement in its security posture. All previo
 
 ### SQL Password Not Encrypted (Fixed)
 ![image](https://github.com/user-attachments/assets/39edf13d-69c5-4de5-bcce-b481b3516c5a)
-![image](https://github.com/user-attachments/assets/f5275fa7-81fe-45bc-a05a-527add594ea2)
+![image](https://github.com/user-attachments/assets/56dd0014-98f2-488e-8e67-02bd3bb65abc)
+
+
+
 
 
 ### No Input Validation (Fixed)
 ![image](https://github.com/user-attachments/assets/917d5bdd-7727-4494-a564-cae86b679585)
-![image](https://github.com/user-attachments/assets/c40b5295-f87a-46a1-95c9-fb4296965c2c)
+![image](https://github.com/user-attachments/assets/73332979-f099-4705-8800-23fbd9cb73fc)
+
 
 
 ### Error Message Giving Potentially Confidential Information (Fixed)
