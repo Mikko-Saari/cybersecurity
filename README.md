@@ -18,3 +18,5 @@
 | 2.3.2025  | 3          | Nauhotus ja vm                | VM troubleshoot ja nauhotus |
 | 3.3.2025  | 2          | VM, zap raport ja pentesting  | Luokkakaverin auttamista ja zap raport v2 |
 | 4.3.2025  | 2          | VM +screenshotit              | Raportin päivittämistä |
+| 6.3.2025  | 2          | Nauhotus ja vm                | Itseopiskelu ja git setup p2:selle |
+
