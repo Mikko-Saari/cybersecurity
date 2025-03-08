@@ -19,4 +19,5 @@
 | 3.3.2025  | 2          | VM, zap raport ja pentesting  | Luokkakaverin auttamista ja zap raport v2 |
 | 4.3.2025  | 2          | VM +screenshotit              | Raportin päivittämistä |
 | 6.3.2025  | 2          | Nauhotus ja vm                | Itseopiskelu ja git setup p2:selle |
+| 8.3.2025  | 6          | Nauhotus ja pw crack          | Salasana hashejen decrypt ja zap report |
 
