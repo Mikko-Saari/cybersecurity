@@ -20,4 +20,5 @@
 | 4.3.2025  | 2          | VM +screenshotit              | Raportin päivittämistä |
 | 6.3.2025  | 2          | Nauhotus ja vm                | Itseopiskelu ja git setup p2:selle |
 | 8.3.2025  | 6          | Nauhotus ja pw crack          | Salasana hashejen decrypt ja zap report |
+| 18.3.2025 | 4          | Nauhotus ja hydra/burp suite  | Dictionary ja bruteforce hydralla ja burpilla |
 
