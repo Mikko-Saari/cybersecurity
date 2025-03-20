@@ -21,4 +21,5 @@
 | 6.3.2025  | 2          | Nauhotus ja vm                | Itseopiskelu ja git setup p2:selle |
 | 8.3.2025  | 6          | Nauhotus ja pw crack          | Salasana hashejen decrypt ja zap report |
 | 17.3.2025 | 4          | Nauhotus ja hydra/burp suite  | Dictionary ja bruteforce hydralla ja burpilla |
+| 20.3.2025 | 2          | Online tunti ja hydra struggle| hydra bruteforce  |
 
