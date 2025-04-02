@@ -24,9 +24,29 @@
 | `/`login       
 | └─ View resource form      | ✅ | ✅ | ✅  |
 | └─ modify resource         | ✅ | ✅ | ✅  |
-| `/`logiout    
+| `/`logout    
 | └─ View resource form      | ✅ | ✅ | ✅  |
 | └─ modify resource         | ✅ | ✅ | ✅  |
+| `/`register    
+| └─ View resource form      | ✅ | ✅ | ✅  |
+| └─ modify resource         | ✅ | ✅ | ✅  |
+| `/`api`/`resources    
+| └─ View resource form      | ✅ | ✅ | ✅  |
+| └─ modify resource         | ❌ | ❌ | ❌  |
+| `/`api`/`resources`/`1  
+| └─ View resource form      | ❌ | ✅ | ✅  |
+| └─ modify resource         | ❌ | ❌ | ❌  |
+| `/`api`/`reservations`/`2  
+| └─ View resource form      | ✅ | ✅ | ✅  |
+| └─ modify resource         | ❌ | ❌ | ❌  |
+| `/`api`/`users    
+| └─ View resource form      | ✅ | ✅ | ✅  |
+| └─ modify resource         | ❌ | ❌ | ❌  |
+| `/`api`/`session    
+| └─ View resource form      | ❌ | ✅ | ✅  |
+| └─ modify resource         | ❌ | ❌ | ❌  |
+
+
 
 
 
