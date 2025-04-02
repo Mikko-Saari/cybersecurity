@@ -23,4 +23,5 @@
 | 17.3.2025 | 4          | Nauhotus ja hydra/burp suite  | Dictionary ja bruteforce hydralla ja burpilla |
 | 20.3.2025 | 2          | Online tunti ja hydra struggle| hydra bruteforce  |
 | 24.3.2025 | 4          | Nauhotuksen kattomista ja phase3 | zap raport ja phase 3 raport  |
+| 2.4.2025  | 4          | phase3 palautus ja portswigger | phase 3 raportin parantelua ja 5 lab|
 
