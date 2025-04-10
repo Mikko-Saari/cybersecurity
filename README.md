@@ -27,4 +27,4 @@
 | 3.4.2025  | 1          | oppitunti | Opiskelua|
 | 4.4.2025  | 4          | Portswigger | 6 labia |
 | 9.4.2025  | 3          | Phase 4 | GDPR tehtävän tekemistä ja lukemista |
-
+| 10.4.2025  | 5          | Phase 5 | Viimmenen tehtävä, oppitunti ja yks portswigger lab |
