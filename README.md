@@ -26,4 +26,5 @@
 | 2.4.2025  | 4          | phase3 palautus ja portswigger | phase 3 raportin parantelua ja 5 lab|
 | 3.4.2025  | 1          | oppitunti | Opiskelua|
 | 4.4.2025  | 4          | Portswigger | 6 labia |
+| 10.4.2025  | 3          | Phase 4 | GDPR tehtävän tekemistä ja lukemista |
 
